@@ -1,0 +1,7 @@
+webhooks:
+  - alias: 'webhook1'
+    botname: 'someBot1'
+    url: 'https://discord.com/api/webhooks/999999999999999999/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz'
+  - alias: 'webhook2'
+    botname: 'someBot2'
+    url: 'https://discord.com/api/webhooks/111111111111111111/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
